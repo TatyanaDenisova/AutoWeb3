@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru/
+browser: chrome
+sleep_time: 5
+login: "kitty89"
+password: "61d96a3985" 
+url: "https://test-stand.gb.ru/gateway/login"
+token: "34d94713de90534fef86c2d61225e710"
+urlpost: "https://test-stand.gb.ru/api/posts"
+
